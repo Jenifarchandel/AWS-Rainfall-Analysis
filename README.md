@@ -1,10 +1,10 @@
-#🌾 Agriculture Climate & Yield Analytics Dashboard #
+# Agriculture Climate & Yield Analytics Dashboard 
 
 An end-to-end Data Analytics & Business Intelligence project built using AWS, Snowflake, and Power BI to analyze the impact of climate conditions on agricultural crop yields.
 
 This project demonstrates how environmental factors like rainfall, temperature, and humidity influence agricultural production across different crops, seasons, and locations.
 
-##🚀 Project Overview
+## Project Overview
 
 Agriculture is highly dependent on climate patterns. This dashboard provides insights into:
 
@@ -18,13 +18,13 @@ Agriculture is highly dependent on climate patterns. This dashboard provides ins
 
 The goal is to help understand relationships between climate conditions and agricultural output using cloud data warehousing and interactive BI reporting.
 
-##Tool	Purpose
+## Tool	Purpose
 AWS	Cloud data storage environment
 Snowflake	Cloud Data Warehouse for structured data
 Power BI Desktop	Data modeling & dashboard creation
 Power BI Service	Cloud-based report publishing & sharing
 DAX	Measures and calculated fields
-🏗 Architecture Flow
+## Architecture Flow
 
 Data → AWS Storage → Snowflake Warehouse → Power BI → Power BI Service
 
@@ -40,8 +40,8 @@ Interactive dashboards built
 
 Report published to Power BI Service
 
-##📊 Dashboard Pages
-###🌧 Rainfall Analysis
+## Dashboard Pages
+### Rainfall Analysis
 
 Average rainfall by Year
 
@@ -51,7 +51,7 @@ Rainfall impact by Crop
 
 Location-based rainfall comparison
 
-###🌡 Temperature Analysis
+### Temperature Analysis
 
 Yearly temperature trends
 
@@ -61,7 +61,7 @@ Crop-wise temperature patterns
 
 Temperature variations by location
 
-###💧 Humidity Analysis
+### Humidity Analysis
 
 Average humidity over years
 
@@ -71,7 +71,7 @@ Humidity impact on crops
 
 Location-based humidity distribution
 
-###🌾 Yield Analysis
+### Yield Analysis
 
 Crop yield trends by year
 
@@ -81,7 +81,7 @@ Crop-wise yield comparison
 
 Yield differences across locations
 
-##📌 Key Features
+## Key Features
 
 ✔ Multi-page analytical dashboard
 ✔ Climate + agriculture domain analysis
@@ -89,7 +89,7 @@ Yield differences across locations
 ✔ Cloud-based data warehousing
 ✔ Business-ready data visualization
 
-##📈 Key Insights (Example)
+## Key Insights (Example)
 
 Certain crops show higher yield during specific seasons
 
@@ -99,7 +99,7 @@ Location plays a major role in crop performance
 
 Climate factors significantly influence agricultural productivity
 
-##🎯 Skills Demonstrated
+## Skills Demonstrated
 
 Data Warehousing (Snowflake)
 
@@ -113,9 +113,9 @@ Business Intelligence Dashboarding
 
 Analytical Thinking
 
-##📷 Dashboard Preview
+## Dashboard Preview
 
-(Add screenshots of your dashboard pages here)
+![Dashboard Screenshot][Screenshot 2026-02-04 130356.png]
 
 ##💼 Use Case
 
