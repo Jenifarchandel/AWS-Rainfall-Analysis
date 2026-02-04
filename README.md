@@ -115,7 +115,7 @@ Analytical Thinking
 
 ## Dashboard Preview
 
-![Dashboard Screenshot][Screenshot 2026-02-04 130356.png]
+![Dashboard Screenshot][images/Screenshot 2026-02-04 130356.png]
 
 ##💼 Use Case
 
