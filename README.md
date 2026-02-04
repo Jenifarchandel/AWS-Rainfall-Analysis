@@ -115,10 +115,10 @@ Analytical Thinking
 
 ## Dashboard Preview
 
-![Dashboard Screenshot][https://github.com/Jenifarchandel/AWS-Rainfall-Analysis/blob/main/Screenshot%202026-02-04%20130356.png]
+![Dashboard Screenshot](https://github.com/Jenifarchandel/AWS-Rainfall-Analysis/blob/main/Screenshot%202026-02-04%20130356.png)
 
 ## Snowflake Preview
-![snowflake Screenshot][https://github.com/Jenifarchandel/AWS-Rainfall-Analysis/blob/main/Screenshot%202026-02-04%20201215.png]
+![snowflake Screenshot](https://github.com/Jenifarchandel/AWS-Rainfall-Analysis/blob/main/Screenshot%202026-02-04%20201215.png)
 
 ##💼 Use Case
 
