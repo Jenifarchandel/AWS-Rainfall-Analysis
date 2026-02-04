@@ -120,7 +120,7 @@ Analytical Thinking
 ## Snowflake Preview
 ![snowflake Screenshot](https://github.com/Jenifarchandel/AWS-Rainfall-Analysis/blob/main/Screenshot%202026-02-04%20201215.png)
 
-##💼 Use Case
+## Use Case
 
 This dashboard can support:
 
@@ -132,7 +132,7 @@ Crop performance evaluation
 
 Government & research decision-making
 
-##📬 Author
+## Author
 
 Jenifar Singh
 Aspiring Data Analyst | Business Intelligence Enthusiast
